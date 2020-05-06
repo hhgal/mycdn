@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<wpml-config>
+    <admin-texts>
+        <key name="content_protector_form_instructions"/>
+        <key name="content_protector_ajax_loading_message"/>
+        <key name="content_protector_success_message"/>
+        <key name="content_protector_error_message"/>
+        <key name="content_protector_form_submit_label"/>
+        <key name="content_protector_captcha_instructions"/>
+        <key name="content_protector_captcha_text_chars"/>
+        <key name="content_protector_password_field_placeholder"/>
+        <key name="content_protector_captcha_field_placeholder"/>
+    </admin-texts>
+</wpml-config>

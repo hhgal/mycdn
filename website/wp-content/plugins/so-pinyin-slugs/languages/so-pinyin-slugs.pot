@@ -1,0 +1,182 @@
+# Copyright (C) 2013 SO Pinyin Slugs
+# This file is distributed under the same license as the SO Pinyin Slugs package.
+msgid ""
+msgstr ""
+"Project-Id-Version: SO Pinyin Slugs 0.1.2\n"
+"Report-Msgid-Bugs-To: https://github.com/so-wp/so-pinyin-slugs/issues\n"
+"POT-Creation-Date: 2013-10-29 05:52:50+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: admin/admin.php:22
+msgid "SO Pinyin Slugs Plugin Settings"
+msgstr ""
+
+#: admin/admin.php:28
+msgid "Important Information"
+msgstr ""
+
+#: admin/admin.php:32
+msgid ""
+"SO Pinyin Slugs automatically transforms Chinese character titles into "
+"pinyin slugs."
+msgstr ""
+
+#: admin/admin.php:34
+msgid ""
+"SO Pinyin Slugs will only work for new slugs, not on existing slugs. You can "
+"choose to rewrite the slugs of existing permalinks manually."
+msgstr ""
+
+#: admin/admin.php:36
+msgid ""
+"<strong>Note:</strong> If you choose to manually rewrite the slugs of "
+"existing permalinks, then please keep in mind that the previous permalinks "
+"that have been indexed by search engines (like Google, Baidu) do not change "
+"automatically. This may impact your site ranking if you just leave it like "
+"that."
+msgstr ""
+
+#: admin/admin.php:38
+msgid ""
+"In that case you might want to add 301 Permanent Redirects for those "
+"specific links to your .htaccess file."
+msgstr ""
+
+#: admin/admin.php:40
+msgid ""
+"A <strong>limitation of SO Pinyin Slugs</strong> is that it completely "
+"ignores anything other than Chinese characters in your slug. For example: if "
+"you have a product name with a number in it, then the plugin ignores this "
+"number. You will have to add that manually to the slug if needed. Likewise, "
+"if you're writing an English title and you combine it with some Chinese "
+"characters, the resulting slug will only contain the pinyin of those "
+"characters; in other words the English is completely ignored."
+msgstr ""
+
+#: admin/admin.php:48
+msgid "SO Pinyin Slugs - Slug Length"
+msgstr ""
+
+#: admin/admin.php:56
+msgid "Slug Length"
+msgstr ""
+
+#: admin/admin.php:60
+msgid ""
+"By default the maximum slug length is set to 100 letters; anything over that "
+"limit will not be converted. If you want to change this limit, you can do "
+"that here."
+msgstr ""
+
+#: admin/admin.php:68
+msgid " Save Changes"
+msgstr ""
+
+#: admin/admin.php:84
+msgid "Rate the SO Pinyin Slugs plugin"
+msgstr ""
+
+#: admin/admin.php:90
+msgid ""
+"If you have found this plugin useful, please give it a favourable rating in "
+"the %1$s and/or consider contributing to the plugin over at %2$s"
+msgstr ""
+
+#: admin/admin.php:91
+msgid "Rate this plugin!"
+msgstr ""
+
+#: admin/admin.php:91
+msgid "WordPress Plugin Repository"
+msgstr ""
+
+#: admin/admin.php:92
+msgid "Contribute to SO Pinyin Slugs over at Github"
+msgstr ""
+
+#: admin/admin.php:92 admin/admin.php:110 admin/admin.php:137
+msgid "Github"
+msgstr ""
+
+#: admin/admin.php:103
+msgid "Support"
+msgstr ""
+
+#: admin/admin.php:109
+msgid ""
+"I will only support this plugin through %s. Therefore, if you have any "
+"questions, need help and/or want to make a feature request, please open an "
+"issue over at Github. You can also browse through open and closed issues to "
+"find what you are looking for and perhaps even help others.<br /><br /"
+"><strong>PLEASE DO NOT POST YOUR ISSUES VIA THE WORDPRESS FORUMS</"
+"strong><br /><br />Thank you for your understanding and cooperation."
+msgstr ""
+
+#: admin/admin.php:110
+msgid "Support via Github"
+msgstr ""
+
+#: admin/admin.php:121
+msgid "About the Author"
+msgstr ""
+
+#: admin/admin.php:126
+msgid ""
+"Hi, my name is Piet Bos, I hope you like this plugin! Please check out any "
+"of my other plugins on <a href=\"%s\" title=\"SO WP Plugins\">SO WP Plugins</"
+"a>. You can find out more information about me via the following links:"
+msgstr ""
+
+#: admin/admin.php:132
+msgid "Senlin Online"
+msgstr ""
+
+#: admin/admin.php:133
+msgid "WP Tips"
+msgstr ""
+
+#: admin/admin.php:134
+msgid "Google+"
+msgstr ""
+
+#: admin/admin.php:135
+msgid "LinkedIn"
+msgstr ""
+
+#: admin/admin.php:136
+msgid "Twitter: @piethfbos"
+msgstr ""
+
+#: admin/admin.php:138
+msgid "WordPress.org Profile"
+msgstr ""
+
+#: so-pinyin-slugs.php:63
+msgid ""
+"<div class=\"error\"><p>%1$s</p><p><i>%2$s</i> has been deactivated.</p></"
+"div>"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "SO Pinyin Slugs"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/so-wp/so-pinyin-slugs"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Transforms Chinese character titles (of Posts, Pages and all other content "
+"types that use slugs) into a permalink friendly slug, showing pinyin that "
+"can be read by humans and (Chinese) search engines alike."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://senlinonline.com"
+msgstr ""
