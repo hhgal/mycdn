@@ -1,1 +1,0 @@
-POWERMODE.colorful=true;POWERMODE.shake=false;document.body.addEventListener("input",POWERMODE);AOS.init({easing:'ease-out-back',duration:1000});superplaceholder({el:s,sentences:['搜不到？','请选用正确的关键词'],options:{letterDelay:100,loop:true,startOnFocus:false}});
